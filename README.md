@@ -35,7 +35,7 @@ python main.py
 
 ### Flowchart of the code 🤹‍♀️
 
-flowchart is attach to flie
+flowchart is attach to file
 
 
 ## *Author Name* 👩🏻‍💻
