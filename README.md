@@ -58,5 +58,5 @@ Feel free to customize this README file with additional information or details s
 2. Run this command on Terminal.
 
 ```
-python main.py
+python3 main.py
 ```
